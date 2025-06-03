@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhartha Mandal</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
-- 🔭 I’m currently working on [Escape the ruined city](https://github.com/Vegeks/Escape-the-ruined-city)
+- 🔭 I’m currently working on [fullstack-bankingapp](https://github.com/Vegeks/fullstack-bankingapp)
 
 - 📫 How to reach me **sidharthamandalclassico@gmail.com**
 
